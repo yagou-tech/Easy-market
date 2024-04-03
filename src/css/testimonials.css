@@ -1,0 +1,16 @@
+.content{
+    color: black;
+}
+
+.temoinage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 90em 0 0 90em;
+    display: flex;
+    align-items: center;
+    font-size: 5rem;
+    color: #53bbae;
+    
+}
+

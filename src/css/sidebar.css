@@ -1,0 +1,25 @@
+.sidebar {
+    font-family: 'Raleway';
+}
+
+legend {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+
+
+.checkbox label {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.progress_bar {
+    height: 10px;
+    background: orange;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
